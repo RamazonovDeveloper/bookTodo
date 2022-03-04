@@ -18,6 +18,7 @@ const Todolist = () => {
             setTodosToLocalstorage(newTodos)
             return newTodos
         })
+        
     }
 
     const handleCheck = (id, isChecked) => {
