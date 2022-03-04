@@ -1,0 +1,20 @@
+.book{
+    margin-top: 14px;
+    display: flex;
+    box-shadow: 0 0 10px black;
+    width: 500px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 10px;
+    border-radius: 8px;
+}
+
+.book > h3{
+    margin: 0;
+}
+
+.book > p{
+    margin: 0;
+    margin-right: 50px;
+    margin-left: auto;
+}

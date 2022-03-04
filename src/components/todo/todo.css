@@ -1,0 +1,16 @@
+.todo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 0 7px black;
+    width: 600px;
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.todo > h4 { 
+    margin: 0;
+    margin-left: 20px;
+    margin-right: auto;
+}
